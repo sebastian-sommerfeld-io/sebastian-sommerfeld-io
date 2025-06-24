@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I started my career as a Java full-stack software engineer, building frontends, backends, and everything in between. Over time, my focus shifted toward infrastructure, automation, and developer enablement-evolving into a platform engineer working in a Kubernetes-based GitOps environment.
+
+I'm passionate about Infrastructure as Code—and really, *everything as code*. From bootstrapping developer machines to deploying production-grade workloads, I believe in defining systems declaratively and managing them through version control.
+
+Most of the repositories here are forks or smaller experiments. My main projects and more structured work live in the [sommerfeld.io organization](https://github.com/sommerfeld-io). If you're into GitOps, Kubernetes, automation, or developer tooling, feel free to check it out!
+
+Feel free to contact me at <sebastian@sommerfeld.io>.
