@@ -19,6 +19,6 @@ I started my career as a Java full-stack software engineer, building frontends, 
 
 I'm passionate about Infrastructure as Code—and really, *everything as code*. From bootstrapping developer machines to deploying production-grade workloads, I believe in defining systems declaratively and managing them through version control.
 
-Most of the repositories here are forks or smaller experiments. My main projects and more structured work live in the [sommerfeld.io organization](https://github.com/sommerfeld-io). If you're into GitOps, Kubernetes, automation, or developer tooling, feel free to check it out!
+Most of the repositories here are forks or smaller experiments. My main projects and more structured work live in the [sommerfeld.io organization](https://github.com/sommerfeld-io).
 
 Feel free to contact me at <sebastian@sommerfeld.io>.
