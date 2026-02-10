@@ -27,5 +27,8 @@ Most of the repositories here are forks or smaller experiments. My main projects
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![InSpec](https://img.shields.io/badge/-InSpec-E11B22?logo=chef&logoColor=white&style=flat-square)
+![Prometheus](https://img.shields.io/badge/-Prometheus-#E6522C?logo=prometheus&logoColor=white&style=flat-square)
+![Grafana](https://img.shields.io/badge/-Grafana-#F46800?logo=grafana&logoColor=white&style=flat-square)
+![Alloy](https://img.shields.io/badge/-Alloy-#F46800?logo=grafana&logoColor=white&style=flat-square)
 
 Feel free to contact me at <sebastian@sommerfeld.io>.
