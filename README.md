@@ -21,14 +21,20 @@ I'm passionate about Infrastructure as Code—and really, *everything as code*. 
 
 Most of the repositories here are forks or smaller experiments. My main projects and more structured work live in the [sommerfeld.io organization](https://github.com/sommerfeld-io).
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![Argo CD](https://img.shields.io/badge/-Argo%20CD-EF7B4D?logo=argo&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-![InSpec](https://img.shields.io/badge/-InSpec-E11B22?logo=chef&logoColor=white&style=flat-square)
-![Prometheus](https://img.shields.io/badge/-Prometheus-#E6522C?logo=prometheus&logoColor=white&style=flat-square)
-![Grafana](https://img.shields.io/badge/-Grafana-#F46800?logo=grafana&logoColor=white&style=flat-square)
-![Alloy](https://img.shields.io/badge/-Alloy-#F46800?logo=grafana&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/github-#2088FF?logo=github)
+![](https://img.shields.io/badge/github-actions-#2088FF?logo=github-actions)
+![](https://img.shields.io/badge/docker-blue?logo=docker)
+![](https://img.shields.io/badge/sonarqube-cloud-purple?logo=sonarqubecloud)
+![](https://img.shields.io/badge/kubernetes-#326CE5?logo=kubernetes)
+![](https://img.shields.io/badge/helm-#0F1689?logo=helm)
+![](https://img.shields.io/badge/argocd-#EF7B4D?logo=argo)
+![](https://img.shields.io/badge/grafana-cloud-#F46800?logo=grafana)
+![](https://img.shields.io/badge/grafana-#F46800?logo=grafana)
+![](https://img.shields.io/badge/grafana-loki-#F46800?logo=grafana)
+![](https://img.shields.io/badge/grafana-tempo-#F46800?logo=grafana)
+![](https://img.shields.io/badge/grafana-alloy-#F46800?logo=grafana)
+![](https://img.shields.io/badge/prometheus-#E6522C?logo=grafana)
+![](https://img.shields.io/badge/go-#00ADD8?logo=go)
+![](https://img.shields.io/badge/chef-inspec-#F09820?logo=go)
 
 Feel free to contact me at <sebastian@sommerfeld.io>.
